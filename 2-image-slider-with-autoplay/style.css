@@ -13,9 +13,9 @@ body{
 }
 
 .slider{
-    width: 1000px;
+    width: 1800px;
     max-width: 100vw;
-    height: 900px;
+    height: 800px;
     margin: auto;
     margin-top: 1%;
     position: relative;
